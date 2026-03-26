@@ -18,6 +18,7 @@ Deployed virtual machines across multiple cloud providers and hosted a live webp
 6. Terminated resources to avoid costs
 
 ## Commands Used
+```
 sudo apt update
 sudo apt install apache2 -y
 sudo systemctl enable apache2
