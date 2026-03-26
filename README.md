@@ -7,6 +7,7 @@ Deployed virtual machines across multiple cloud providers and hosted a live webp
 - Microsoft Azure
 - Google Cloud Platform (GCP)
 - Oracle Cloud
+- IBM Cloud
 
 ## Steps Performed
 1. Created VM instances
